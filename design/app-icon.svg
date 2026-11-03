@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <radialGradient id="bg" cx="0.5" cy="0.38" r="0.75">
+      <stop offset="0" stop-color="#16303A"/>
+      <stop offset="0.6" stop-color="#081016"/>
+      <stop offset="1" stop-color="#05070A"/>
+    </radialGradient>
+    <linearGradient id="volt" x1="380" y1="180" x2="640" y2="860" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C8FFF1"/>
+      <stop offset="0.45" stop-color="#38F5C8"/>
+      <stop offset="1" stop-color="#1A9BFF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <g transform="translate(512 512) scale(2.6) translate(-121 -120)">
+    <path d="M138 16 L54 134 H112 L96 224 L188 98 H128 Z" fill="#38F5C8" opacity="0.55" filter="url(#glow)"/>
+    <path d="M138 16 L54 134 H112 L96 224 L188 98 H128 Z" fill="url(#volt)"/>
+  </g>
+</svg>

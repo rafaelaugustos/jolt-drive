@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="0 0 432 432">
+  <defs>
+    <linearGradient id="volt" x1="160" y1="100" x2="270" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C8FFF1"/>
+      <stop offset="0.45" stop-color="#38F5C8"/>
+      <stop offset="1" stop-color="#1A9BFF"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(216 216) scale(1.05) translate(-121 -120)">
+    <path d="M138 16 L54 134 H112 L96 224 L188 98 H128 Z" fill="url(#volt)"/>
+  </g>
+</svg>

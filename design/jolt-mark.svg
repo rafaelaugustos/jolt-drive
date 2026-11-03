@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="volt" x1="70" y1="20" x2="170" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C8FFF1"/>
+      <stop offset="0.45" stop-color="#38F5C8"/>
+      <stop offset="1" stop-color="#1A9BFF"/>
+    </linearGradient>
+  </defs>
+  <path d="M138 16 L54 134 H112 L96 224 L188 98 H128 Z" fill="url(#volt)" stroke-linejoin="round"/>
+</svg>

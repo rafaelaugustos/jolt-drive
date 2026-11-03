@@ -1,0 +1,29 @@
+Page {
+	background-color: #05070a;
+	color: #eaf2f8;
+}
+
+.display {
+	font-family: InterDisplay-SemiBold, 'Inter Display';
+	font-weight: 600;
+}
+
+.display-light {
+	font-family: InterDisplay-Light, 'Inter Display';
+	font-weight: 300;
+}
+
+.body {
+	font-family: Inter-Regular, Inter;
+	font-weight: 400;
+}
+
+.body-medium {
+	font-family: Inter-Medium, Inter;
+	font-weight: 500;
+}
+
+.body-strong {
+	font-family: Inter-SemiBold, Inter;
+	font-weight: 600;
+}
